@@ -4,9 +4,28 @@
     "description": "Learn and explore",
     "main": "dist/bundle.js",
     "readme": "README.md",
-    "homepage": "",
-    "repository": "git@github.com:alexguerra-dev/Tir-Na-Nog.git",
-    "author": "Alex Guerra <alexander.a.guerra@gmail.com>",
+    "homepage": "https://alexguerra-dev.github.io/Tir-Na-Nog/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexguerra-dev/Tir-Na-Nog"
+    },
+    "author": {
+        "name": "Alex Guerra",
+        "email": "alexander.a.guerra@gmail.com"
+    },
     "license": "MIT",
-    "private": true
+    "private": true,
+    "scripts": {
+        "build": "webpack --mode production",
+        "start": "webpack serve --mode development --open"
+    },
+    "devDependencies": {
+        "ts-loader": "^9.5.2",
+        "webpack": "^5.99.8",
+        "webpack-cli": "^6.0.1",
+        "webpack-dev-server": "^5.2.1"
+    },
+    "dependencies": {
+        "typescript": "^5.8.3"
+    }
 }
