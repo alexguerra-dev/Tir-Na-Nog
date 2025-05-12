@@ -22,6 +22,11 @@ Tir-Na-Nog is a playground to learn and explore Javascript, TypeScript, p5js, an
   - [x] Add node_modules to the .gitignore file.
 - [ ] Create a .editorconfig file for the project.
 - [ ] Create a .eslintrc file for the project.
+- [ ] Create src/index.html file for the project.
+- [ ] Create src/index.ts file for the project.
+- [ ] Create src/style.css file for the project.
+- [ ] Create src/assets folder for the project.
+- [ ] Create src/assets/images folder for the project.
 
 ---
 
