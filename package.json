@@ -1,0 +1,12 @@
+{
+    "name": "tir-na-nog",
+    "version": "0.0.0",
+    "description": "Learn and explore",
+    "main": "dist/bundle.js",
+    "readme": "README.md",
+    "homepage": "",
+    "repository": "git@github.com:alexguerra-dev/Tir-Na-Nog.git",
+    "author": "Alex Guerra <alexander.a.guerra@gmail.com>",
+    "license": "MIT",
+    "private": true
+}
