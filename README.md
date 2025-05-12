@@ -18,8 +18,8 @@ Tir-Na-Nog is a playground to learn and explore Javascript, TypeScript, p5js, an
 - [x] Create a README.md file for the project.
 - [x] Add a license file to the project.
 - [x] Create a .prettierrc file for the project.
-- [ ] Create a .gitignore file for the project.
-  - [ ] Add node_modules to the .gitignore file.
+- [x] Create a .gitignore file for the project.
+  - [x] Add node_modules to the .gitignore file.
 - [ ] Create a .editorconfig file for the project.
 - [ ] Create a .eslintrc file for the project.
 
